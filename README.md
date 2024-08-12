@@ -1,3 +1,3 @@
-# Small spatial multiples with R
+# Hitzetage in Deutschland
 
-![Germany is heating up](germany_heating_up.png)
+![Hitzetage in Deutschland](hitzetage_deutschland.png)
