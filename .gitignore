@@ -2,7 +2,6 @@
 # Ordner ignorieren
 archiv/
 data/
-nuts250_1231/
 venv/
 dwd_weather_data_copy/
 nuts250_1231_copy/
