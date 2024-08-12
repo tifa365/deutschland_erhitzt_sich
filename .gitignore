@@ -1,0 +1,41 @@
+
+# Ordner ignorieren
+archiv/
+data/
+nuts250_1231/
+venv/
+dwd_weather_data_copy/
+
+# Spezifische Dateien ignorieren
+*.log
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python-spezifische Dateien ignorieren
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R-spezifische Dateien ignorieren
+.Rhistory
+.RData
+.Ruserdata
+
+# Betriebssystem-spezifische Dateien ignorieren
+.DS_Store
+Thumbs.db
+
+# IDEs und Editoren
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*.swp
+*~
